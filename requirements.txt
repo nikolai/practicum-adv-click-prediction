@@ -1,0 +1,11 @@
+# Минимальный набор зависимостей для проекта Афиша
+pandas==3.0.0
+jupyterlab==4.5.3
+ipykernel==7.1.0
+matplotlib==3.10.8
+seaborn==0.13.2
+numpy==2.4.1
+scipy==1.17.0
+phik==0.12.5
+scikit-learn==1.7.0
+joblib==1.5.3
